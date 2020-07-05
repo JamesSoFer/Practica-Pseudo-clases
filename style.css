@@ -1,0 +1,74 @@
+.btn1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+	padding: 10px 90px 10px 90px;
+	font-size:12px;
+    border: 1px solid black;
+    background-color: black;
+}
+
+.btn1:hover{
+	background-color: #616066;
+	color: white;
+}
+
+.btn1:active{
+    background-color:#2e2e2e;
+}
+
+.btn2{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+	padding: 10px 90px 10px 90px;
+	font-size:12px;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.btn2:hover{
+	background-color: #616066; 
+    color: white;
+}
+
+.btn2:active{
+    background-color: #2e2e2e;
+}
+
+
+.btn3{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+	padding: 10px 90px 10px 90px;
+	font-size:12px;
+    border: 1px solid rgb(230, 230, 230);
+    background-color: rgb(230, 230, 230);
+}
+
+.btn3:hover{
+	background-color: #ebebeb;
+    color: black;
+}
+
+.btn3:active{
+    background-color: #bebebe;
+}
+
+
+.btn4{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+	padding: 10px 90px 10px 90px;
+	font-size:12px;
+    border: 1px solid #0074DA;
+    background-color: #0074DA;
+}
+
+.btn4:hover{
+    background-color: #7d8aff;
+    border: 1px solid #7d8aff;
+    color: white;
+}
+
+.btn4:active{
+    background-color: #9f52f7;
+}
